@@ -1,6 +1,6 @@
 # What's up
 
-### I'm Brandon, an avid backpacker/outdoorsman and robotics kid 4 life 😄. Currently vibin' :sunglasses:
+### I'm Brandon, an avid backpacker/outdoorsman and robotics kid 4 life 😄. Currently vibin' at UCSD :sunglasses:
 
 <!--
 **brandonho667/brandonho667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
