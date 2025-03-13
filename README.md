@@ -1,6 +1,4 @@
-# What's up
-
-### I'm Brandon, an avid backpacker and robotics kid 😄. Currently vibin at UCSD :sunglasses:
+Hi, I'm Brandon! I’m currently working on novel metal additive manufacturing solutions at Relativity Space 🚀!
 
 <!--
 **brandonho667/brandonho667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
